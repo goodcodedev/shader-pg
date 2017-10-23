@@ -1,0 +1,6 @@
+/build/
+/.vscode/
+.DS_Store
+.fips-gen.py
+.fips-imports.cmake
+.fips-settings.yml
